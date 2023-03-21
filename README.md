@@ -14,6 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Node.js
 - TypeScript
+- Fastify
 - JWT
 - Prisma
 - ZOD
